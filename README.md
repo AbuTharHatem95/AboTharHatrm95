@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AboTharHatrm
-- 👀 I’m interested in ...C# .. .Net
-- 🌱 I’m currently learning ... C#
+- 👀 I’m interested in ...C# , .Net
+- 🌱 I’m currently learning ... In programmingadvices School (programmingadvices.com)
 - 📫 How to reach me ... On PIO
 
 <!---
